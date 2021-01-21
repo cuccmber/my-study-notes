@@ -1,10 +1,10 @@
-# Content
+**Content**
 
 ## Java
-### Unit testing
-### Logging
+[**Unit testing**](https://github.com/cuccmber/my-study-notes/blob/master/Java/unit-testing.md)
+[**Logging**](https://github.com/cuccmber/my-study-notes/blob/master/Java/logging.md)
 
-## Architecture
-### UML
-### SOLID
-### Patterns
+## Architecture *coming soon*
+**UML**
+**SOLID**
+**Patterns**
