@@ -1,10 +1,10 @@
-#Content
+# Content
 
-##Java
-###Unit testing
-###Logging
+## Java
+### Unit testing
+### Logging
 
-##Architecture
-###UML
-###SOLID
-###Patterns
+## Architecture
+### UML
+### SOLID
+### Patterns
